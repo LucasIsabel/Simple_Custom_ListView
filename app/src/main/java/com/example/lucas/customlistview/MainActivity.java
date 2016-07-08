@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ArrayList<Pessoa> list_pessoa = new ArrayList<Pessoa>();
-        
+
             list_pessoa.add(new Pessoa("Nome","Sobrenome"));
             list_pessoa.add(new Pessoa("Nome","Sobrenome"));
             list_pessoa.add(new Pessoa("Nome","Sorenome"));
